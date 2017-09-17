@@ -1,4 +1,0 @@
-How to clone a repository from GitHub to your computer
-======================================================
-
-$ git clone https://github.com/zhamri/Git-Command.git
