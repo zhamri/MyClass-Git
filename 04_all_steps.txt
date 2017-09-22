@@ -1,0 +1,22 @@
+Basic git command
+=================
+
+Step 1: Download git from:
+	https://git-scm.com/downloads
+
+Step 2: How to clone a repository from GitHub to your computer:
+
+	Example:
+	$ git clone https://github.com/zhamri/Git-Command.git
+				
+Step 3: How to upload files from your computer to GitHub:
+
+	Follow the commands below step-by-step:
+
+	$ git add .
+
+	$ git status
+
+	$ git commit -m 'download git for Mac or Windows'
+
+	$ git push
